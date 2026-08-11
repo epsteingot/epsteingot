@@ -64,9 +64,7 @@
 
 | Mission Name (Contest) | Status / Result | Elite Proof (Certificate) |
 | :--- | :---: | :---: |
-| 🤖 **Hackathon Ozon-Robozon 2026** <br> Track: _Intelligent Robotic Product Sorting System_ | **59st Place of 300+** | <details><summary>🔍 View Diploma</summary><br><img src="ССЫЛКА_НА_ДИПЛОМ_1" width="300px"></details> |
-| ⚡ **TechOlympics: Cyber Systems** <br> _Advanced ST & Ladder Engineering_ | 🥈 **2nd Place** | <details><summary>🔍 View Diploma</summary><br><img src="ССЫЛКА_НА_ДИПЛОМ_2" width="300px"></details> |
-| 🎨 **HMI & UI Design Web Arena** <br> _Top-3 Best Industrial Dashboard Interface_ | 🎖️ **Finalist** | <details><summary>🔍 View Diploma</summary><br><img src="ССЫЛКА_НА_ДИПЛОМ_3" width="300px"></details> |
+| 🤖 **Hackathon Ozon-Robozon 2026** <br> Track: _Intelligent Robotic Product Sorting System_ | **59st Place of 300+** | <details><summary>🔍 View Diploma</summary><br>[open](./MyAwards&Certificates/OzonRobozon.pdf)</details> |
 
 </details>
 
