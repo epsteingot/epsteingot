@@ -64,7 +64,7 @@
 
 | Mission Name (Contest) | Status / Result | Elite Proof (Certificate) |
 | :--- | :---: | :---: |
-| 🤖 **Hackathon Ozon-Robozon 2026** <br> Track: _Intelligent Robotic Product Sorting System_ | **59st Place of 300+** | <details><summary>🔍 View Diploma</summary><br>[open](./MyAwards&Certificates/OzonRobozon.pdf)</details> |
+| 🤖 **Hackathon Ozon-Robozon 2026** <br> Track: _Intelligent Robotic Product Sorting System_ | **59st Place of 300+** | <details><summary>🔍 View Diploma</summary><br>[open](./My%20Awards%20%26%20Certificates/OzonRobozon.pdf)</details> |
 
 </details>
 
