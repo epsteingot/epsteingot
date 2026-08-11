@@ -1,13 +1,14 @@
 <div align="center">
 
-<!-- Вставь ссылку на свой баннер между кавычек в src="..." ниже -->
-<img src="[https://giphy.com](https://i.pinimg.com/1200x/db/eb/a5/dbeba5a2ce1a3f0eafc6b90beadf2276.jpg)" width="100%" alt="">
+# earth_1610
 
-# 🎸 earth_138
+<!-- Вставь ссылку на свой баннер между кавычек в src="..." ниже -->
+<img src="https://i.pinimg.com/1200x/ab/7f/0c/ab7f0caa29a41fd2273de73aa3a39d27.jpg" width="85%" alt="">
+
 
 ### "Anyone can wear the mask. You can wear the mask." 🎧
 
-[![Followers](https://shields.io)](https://github.com)
+
 
 ---
 
@@ -15,23 +16,42 @@
 * 🏙️ Coding straight from Earth-138 and my digital Brooklyn.
 * ⚡ My tech stack is fueled by pure bio-electric venom blast.
 * 🎸 Breaking rules, dodging corporate templates, and writing chaotic code.
-* 🎧 Currently blasting: *Blackway & Black Caviar — What's Up Danger*.
+* 🎧 Currently blasting: *I hate myself and want to die - Nirvana*.
 
 ---
 
 ### 🛠️ My Web of Technologies (Skills):
 
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+<br>
+
+<strong>🎸 Industrial Automation & PLC Programming</strong>
+<p>
+  🔴 <b>PLC Programming</b> &nbsp;|&nbsp; 
+  ⚫ <b>ST (Structured Text)</b> &nbsp;|&nbsp; 
+  🔴 <b>Ladder Diagram</b> &nbsp;|&nbsp; 
+  ⚫ <b>Industrial IoT</b>
+</p>
+
+<br>
+
+<strong>💻 Software & Ecosystems</strong>
+<p>
+  🔵 <b>Python Engine</b> &nbsp;|&nbsp; 
+  🔴 <b>DiaDesigner AX</b> &nbsp;|&nbsp; 
+  ⚫ <b>DiaScreen HMI</b>
+</p>
+
+<br>
+
+<strong>🎨 Interface & UI Design</strong>
+<p>
+  🟠 <b>UI Design (Figma)</b> &nbsp;|&nbsp; 
+  ⚫ <b>HMI Development</b>
+</p>
 
 ---
 
-### 📊 Spider Stats:
-
-<img src="https://vercel.app" width="48%">
-<img src="https://vercel.app" width="48%">
+<img src="https://i.pinimg.com/1200x/0f/c6/c5/0fc6c59a6e07c235cba0c435cafb3ccb.jpg" width="85%" style="transform: scaleY(-1);">
 
 ---
 
