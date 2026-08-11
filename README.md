@@ -17,6 +17,7 @@
 * ⚡ My tech stack is fueled by pure bio-electric venom blast.
 * 🎸 Breaking rules, dodging corporate templates, and writing chaotic code.
 * 🎧 Currently blasting: *I hate myself and want to die - Nirvana*.
+<img src="https://i.pinimg.com/1200x/84/51/8b/84518b5c8bedf13389def50a3a27b9be.jpg" width="30%" alt="">
 
 ---
 
